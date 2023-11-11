@@ -1,4 +1,4 @@
-# Digital Wellbeing Analysis
+# Social Bytes and Wellness
 
 This project aims to test the hypothesis that social media use affects mental health
 
